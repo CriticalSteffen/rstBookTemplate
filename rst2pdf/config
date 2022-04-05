@@ -1,0 +1,17 @@
+# Template config file for the rstBookTemplate project.
+#   See the manual for details:
+#   https://rst2pdf.org/static/manual.html
+
+[general]
+stylesheets="style/style.yaml"
+compressed=false
+language="en_US"
+fit_mode="shrink"
+fit_background_mode="center"
+break_level=0
+break_side="any"
+blank_first_page=false
+first_page_even=false
+smartquotes=0
+footnote_backlinks=true
+inline_footnotes=false
